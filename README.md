@@ -1,4 +1,5 @@
-# Console-Finances
+# Console-Financial-Analysis_JS
+
 
 I was tasked with creaating a code analyzing the financial records for company xyz
 
@@ -12,8 +13,10 @@ period.
 - The greatest decrease in Profit/Losses (date and difference in the amounts) over the entire
 period.
 
+Visit [Git Hubpage](https://ivash1315.github.io/Console-Financial-Analysis_JS/) to view project.
 
-Screenshot of console print;
+
+**Screenshot** of console print;
 
 
 
